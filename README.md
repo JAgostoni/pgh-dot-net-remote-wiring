@@ -37,7 +37,7 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - Crazy easy to program (AVR-C is way simple, we'll use C#)\
 - Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
-_**Demo 1 - Blinky!**_  - [Code Here](Demo 1 - Simple Arduino)
+_**Demo 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo%201%20-%20Simple%20Arudino/flashy)
 
 1. Wire up your Arudino similar to the diagram above
 2. Open the Arduino IDE, start a new sketch
