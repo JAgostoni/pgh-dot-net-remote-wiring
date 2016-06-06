@@ -25,4 +25,6 @@ Does it look like this?
 
 ![Should look like this](assets/flashy.png)
 
-[NEXT: What's StandardFirmata? >>](GettingStarted_3.md)
+### [NEXT: What's StandardFirmata? >>](GettingStarted_3.md)
+
+[TOP](README.md)
