@@ -37,7 +37,16 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - Crazy easy to program (AVR-C is way simple, we'll use C#)\
 - Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
-_**TBD - SIMPLE DEMO OF ARDUINO IDE AND AVR-C**_
+_**Demo 1 - Blinky!**_  - [Code Here](Demo 1 - Simple Arduino)
+
+1. Wire up your Arudino similar to the diagram above
+2. Open the Arduino IDE, start a new sketch
+3. In the setup() method, set the pinMode to OUTPUT
+4. In the loop() method, alternate the state of the pin with delays
+
+Does it look like this?
+
+![Should look like this](assets/flashy.png)
 
 ---
 
@@ -63,6 +72,11 @@ _**DEMO: Uploading Standard Firmata**_
 ## Microsoft Remote Wiring
 ...
 
+
+## Button Band IoT End-to-End
+...
+
+![My God! It's Full of Submodules](assets/submodules.jpg)
 ---
 
 ## BIO - Jason Agostoni
