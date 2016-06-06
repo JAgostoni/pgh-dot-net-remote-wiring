@@ -3,82 +3,15 @@ Learn how to connect to and control your Arduino using Microsoft's Remote Wiring
 to a microcontroller (Arduino UNO) to react to tapping some wired-up hardware buttons. After, we'll continue the journey by sending these button
 presses up as telemtry events to an Azure IoT hub ... and then back again as a Microsoft Band WebTile
 
+
+
 ## Getting Started
 
-###Some things we'll need:
+### [Some things we'll need](GettingStarted_1.md)
 
-- Arduino compatible micro-controller ([here's mine](http://www.amazon.com/dp/B00E5WJSHK/ref=cm_sw_r_tw_dp_H8lvxb1224T12))
-- Arduino IDE (to install Standard Firmata)
- - [Download](https://www.arduino.cc/en/Main/Software) it from Arduino.cc
- - I used Choclatey.org (choco install arduino)
-- Visual Studio 2015
-- CLONE this repo (I use submodules so a .ZIP download isn't going to cut it ;) )
-- You should probably go ahead and learn Ohm's law:
+### [What's an Arduino?](GettingStarted_2.md)
 
-    _Twinkle, twinkle little start V is equal to IR (V=IR), up above the sky so high, P is equal to VI (P=VI)_
-    
-    _Add resistors in series: R = R1 + R2 + R3_
-    
-    _Inversely add them in parallel: 1/R = 1/R1 + 1/R2 + 1/R3_
-
-- Let the resistor take the hit for you:
-
-![Sorry!  I couldn't resist](assets/resist.jpg)
-
-**These won't be needed at the user group meeting but they are here for your reference!**
-
----
-
-### What's an Arduino?
-
-- An open source hardware specification
-- A prototyping platform
-- Damn cheap! (like $5 cheap.  $12 for a more spacious version. $25 version supports Arduino)
-- Crazy easy to program (AVR-C is way simple, we'll use C#)\
-- Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
-
-_**DEMO 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo%201%20-%20Simple%20Arudino/flashy)
-
-Just a simple demo showing how easy programming an Arduino is!
-
-![Schematic](assets/Demo_1_Schematic.png)
-
-Do this:
-
-1. Wire up your Arudino similar to the diagram above
-2. Open the Arduino IDE, start a new sketch
-3. In the setup() method, set the pinMode to OUTPUT
-4. In the loop() method, alternate the state of the pin with delays
-
-Does it look like this?
-
-![Should look like this](assets/flashy.png)
-
----
-
-### What's StandardFirmata?
-Standardized protocol for communicating with microcontrollers from more general purpose computers (like your PC, Mac, RaspberryPi).
-
-- Based on the MIDI format (really? cool!)
-- Client libraries available in just about every language
-- Easily uploaded to your arduino
-
-_**DEMO 2: Uploading Standard Firmata**_
-
-Get the StandardFirmata uploaded to the board.
-
-Do this:
-
-1. Connect your board
-2. Open the Arduino IDE
-3. Ensure youre board and port are selected (Tools->Board, Tools->Port)
-4. Open the StandardFirmata sketch (File->Examples->Firmata->StandardFirmata)
-5. Upload. Done.
-
-![Should look like this](assets/Demo_2_Firmata.png)
-
-
-**Now we can get started with C#!** 
+### [What's StandardFirmata?](GettingStarted_3.md)
 
 ---
 
