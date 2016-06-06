@@ -37,7 +37,13 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - Crazy easy to program (AVR-C is way simple, we'll use C#)\
 - Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
-_**Demo 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo%201%20-%20Simple%20Arudino/flashy)
+_**DEMO 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo%201%20-%20Simple%20Arudino/flashy)
+
+Just a simple demo showing how easy programming an Arduino is!
+
+![Schematic](assets/Demo_1_Schematic.png)
+
+Do this:
 
 1. Wire up your Arudino similar to the diagram above
 2. Open the Arduino IDE, start a new sketch
@@ -57,13 +63,20 @@ Standardized protocol for communicating with microcontrollers from more general 
 - Client libraries available in just about every language
 - Easily uploaded to your arduino
 
-_**DEMO: Uploading Standard Firmata**_
+_**DEMO 2: Uploading Standard Firmata**_
+
+Get the StandardFirmata uploaded to the board.
+
+Do this:
 
 1. Connect your board
 2. Open the Arduino IDE
 3. Ensure youre board and port are selected (Tools->Board, Tools->Port)
 4. Open the StandardFirmata sketch (File->Examples->Firmata->StandardFirmata)
 5. Upload. Done.
+
+![Should look like this](assets/Demo_2_Firmata.png)
+
 
 **Now we can get started with C#!** 
 
