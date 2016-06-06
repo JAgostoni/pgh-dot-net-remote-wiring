@@ -19,7 +19,7 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
     
     _Add resistors in series: R = R1 + R2 + R3_
     
-    _ Inversely add them in parallel: 1/R = 1/R1 + 1/R2 + 1/R3_
+    _Inversely add them in parallel: 1/R = 1/R1 + 1/R2 + 1/R3_
 
 - Let the resistor take the hit for you:
 
@@ -27,7 +27,10 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 
 **These won't be needed at the user group meeting but they are here for your reference!**
 
+---
+
 ### What's an Arduino?
+
 - An open source hardware specification
 - A prototyping platform
 - Damn cheap! (like $5 cheap.  $12 for a more spacious version. $25 version supports Arduino)
@@ -35,6 +38,8 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
 _**TBD - SIMPLE DEMO OF ARDUINO IDE AND AVR-C**_
+
+---
 
 ### What's StandardFirmata?
 Standardized protocol for communicating with microcontrollers from more general purpose computers (like your PC, Mac, RaspberryPi).
@@ -53,8 +58,12 @@ _**DEMO: Uploading Standard Firmata**_
 
 **Now we can get started with C#!** 
 
+---
+
 ## Microsoft Remote Wiring
 ...
+
+---
 
 ## BIO - Jason Agostoni
 Jason Agostoni has over 18 years of experience in software development, architecture, design, and several years of experience in project management. He has had the opportunity to work in nearly every industry and knowledge domain from healthcare to professional sports teams.  Jason helps companies and teams envision, design and construct end-to-end solutions for any size need.  He has been responsible for small mobile applications all the way up to massive scale integration solutions processing 5+ million transactions daily. In addition to software development experience, Jason has spent time developing content for and performing mentoring including mobile development, Azure and cloud services, BizTalk, Team Foundation Server (TFS), software architecture and general .NET.
