@@ -15,16 +15,17 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - CLONE this repo (I use submodules so a .ZIP download isn't going to cut it ;) )
 - You should probably go ahead and learn Ohm's law:
 
-    _ Twinkle, twinkle little start V is equal to IR (V=IR), up above the sky so high, P is equal to VI (P=VI)_
+    _Twinkle, twinkle little start V is equal to IR (V=IR), up above the sky so high, P is equal to VI (P=VI)_
     
-    _ Add resistors in series: R = R1 + R2 + R3 _
+    _Add resistors in series: R = R1 + R2 + R3_
     
-    _ Inversely add them in parallel: 1/R = 1/R1 + 1/R2 + 1/R3 _
+    _ Inversely add them in parallel: 1/R = 1/R1 + 1/R2 + 1/R3_
+
 - Let the resistor take the hit for you:
 
 ![Sorry!  I couldn't resist](assets/resist.jpg)
 
-** These won't be needed at the user group meeting but they are here for your reference! **
+**These won't be needed at the user group meeting but they are here for your reference!**
 
 ### What's an Arduino?
 - An open source hardware specification
