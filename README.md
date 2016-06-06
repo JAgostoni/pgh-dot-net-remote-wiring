@@ -31,10 +31,30 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 - An open source hardware specification
 - A prototyping platform
 - Damn cheap! (like $5 cheap.  $12 for a more spacious version. $25 version supports Arduino)
-- Crazy easy to program (AVR-C is way simple, we'll use C#)
+- Crazy easy to program (AVR-C is way simple, we'll use C#)\
+- Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
-TBD - SIMPLE DEMO OF ARDUINO IDE AND AVR-C
+_**TBD - SIMPLE DEMO OF ARDUINO IDE AND AVR-C**_
 
+### What's StandardFirmata?
+Standardized protocol for communicating with microcontrollers from more general purpose computers (like your PC, Mac, RaspberryPi).
+
+- Based on the MIDI format (really? cool!)
+- Client libraries available in just about every language
+- Easily uploaded to your arduino
+
+_**DEMO: Uploading Standard Firmata**_
+
+1. Connect your board
+2. Open the Arduino IDE
+3. Ensure youre board and port are selected (Tools->Board, Tools->Port)
+4. Open the StandardFirmata sketch (File->Examples->Firmata->StandardFirmata)
+5. Upload. Done.
+
+**Now we can get started with C#!** 
+
+## Microsoft Remote Wiring
+...
 
 ## BIO - Jason Agostoni
 Jason Agostoni has over 18 years of experience in software development, architecture, design, and several years of experience in project management. He has had the opportunity to work in nearly every industry and knowledge domain from healthcare to professional sports teams.  Jason helps companies and teams envision, design and construct end-to-end solutions for any size need.  He has been responsible for small mobile applications all the way up to massive scale integration solutions processing 5+ million transactions daily. In addition to software development experience, Jason has spent time developing content for and performing mentoring including mobile development, Azure and cloud services, BizTalk, Team Foundation Server (TFS), software architecture and general .NET.
