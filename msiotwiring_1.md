@@ -44,7 +44,7 @@ Do this:
    - Add references to the three newly added projects to the UWP project
 6. Build. Hope. Success?
 
-Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Complete/RemoteWiringDemo)
+Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Complete/)
 
 ### The Three Libraries
 There are three libraries which come with Remote Wiring...
