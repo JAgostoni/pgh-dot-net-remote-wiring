@@ -1,0 +1,3 @@
+[submodule "Demo3/Complete/remote-wiring"]
+	path = Demo3/Complete/remote-wiring
+	url = https://github.com/JAgostoni/remote-wiring
