@@ -31,7 +31,7 @@ Do this:
 
 1. Launch Visual Studio 2015
 2. Create a new Blank Windows Universal App
-   - Or ... just use the [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo2/Starter/RemoteWiringDemo)
+   - Or ... just use the [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Starter/RemoteWiringDemo)
 3. Open the Package Manager Console
 4. Using NuGet Package?
   - Install-Package windows-remote-arduino
@@ -44,7 +44,7 @@ Do this:
    - Add references to the three newly added projects to the UWP project
 6. Build. Hope. Success?
 
-Completed solution [HERE]((https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo2/Complete/RemoteWiringDemo)
+Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Complete/RemoteWiringDemo)
 
 ### The Three Libraries
 There are three libraries which come with Remote Wiring...
