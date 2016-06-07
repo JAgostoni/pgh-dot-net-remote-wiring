@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="RemoteWiringDemo.App.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RemoteWiringDemo.App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Orientation="Vertical" Margin="120">
+        <Button Content="Find Device" Margin="20" Click="Button_Click"></Button>
+        <Button Content="Connect Device" Margin="20" Click="Button_Click_1"></Button>
+        <Button Content="Light LED" Margin="20" Click="Button_Click_2"></Button>
+    </StackPanel>
+</Page>
