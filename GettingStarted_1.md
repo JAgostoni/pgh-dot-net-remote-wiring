@@ -8,6 +8,8 @@
  - I used Choclatey.org (choco install arduino)
 - Visual Studio 2015
 - CLONE this repo (I use submodules so a .ZIP download isn't going to cut it ;) )
+  - Don't forget to do this (unless you are using a rockin' tool like GitKraken)
+    - git submodule update --init --recursive
 - You should probably go ahead and learn Ohm's law:
 
     _Twinkle, twinkle little start V is equal to IR (V=IR), up above the sky so high, P is equal to VI (P=VI)_
