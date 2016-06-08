@@ -5,10 +5,10 @@
 - An open source hardware specification
 - A prototyping platform
 - Damn cheap! (like $5 cheap.  $12 for a more spacious version. $25 version supports Arduino)
-- Crazy easy to program (AVR-C is way simple, we'll use C#)\
+- Crazy easy to program (AVR-C is way simple, we'll use C#)
 - Or program one graphically with ArduBlock and ModKit (and other Blockly GDEs)
 
-_**DEMO 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo1/flashy)
+_**DEMO 1 - Blinky!**_  - [Code Here](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo1/flashy)
 
 Just a simple demo showing how easy programming an Arduino is!
 
