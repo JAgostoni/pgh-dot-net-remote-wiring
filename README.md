@@ -23,7 +23,7 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 ## Button Band IoT End-to-End
 ...
 
-![My God! It's Full of Submodules](assets/submodules.jpg)
+
 ---
 
 ## BIO - Jason Agostoni

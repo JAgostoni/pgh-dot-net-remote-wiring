@@ -2,7 +2,7 @@
 
 ### Basics / Getting Started
 
-Microsoft's Remote Wiring framework is an open source C++, windows universal library (winmd) available through NuGet or GitHub.
+Microsoft's Remote Wiring framework is an open source C++, Windows Runtime Component (winmd) available through NuGet or GitHub.
 
 You can snag it a couple ways:
 
@@ -43,6 +43,7 @@ Do this:
    - ... and remote-wiring\source\Serial\Microsoft.Maker.Serial.win10
    - Add references to the three newly added projects to the UWP project
 6. Build. Hope. Success?
+  - Oh yeah ... forgot to tell you to pick an architecture like x64 ... C++, amirite?
 
 Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Complete/)
 
