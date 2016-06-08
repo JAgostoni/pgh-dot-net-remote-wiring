@@ -33,7 +33,7 @@ Like totally exciting, right? How about a button?
  - Pullup mode uses an INTERNAL pullup resistor to help ensure a consistent value
 3. Handle the DigitalPinUpdated event, check for pin==3 and use its state to light the LED
  - Pullup mode also, effectively, reverses the input (LOW = on/closed, HIGH = off/open)
-4. 
+4. Run. Light LEDs. Enjoy.
 
 
 ### [NEXT: Button/Band IoT Project >>](buttonbandiot.md)
