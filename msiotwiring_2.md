@@ -47,9 +47,9 @@ to the serial devices.  Wait? No UI support for this? Well, time to edit some XM
   </Capabilities>
 ```
 
-** Did it work? Great! Moving up the layers ...**
+**Did it work this time? Great! Moving up the layers ...**
 
 
-### [NEXT:Firmata >>](msiotwiring_3.md)
+### [NEXT: Firmata >>](msiotwiring_3.md)
 
 [TOP](README.md)
