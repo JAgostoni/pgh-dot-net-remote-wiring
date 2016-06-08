@@ -8,8 +8,7 @@
     mc:Ignorable="d">
 
     <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Orientation="Vertical" Margin="120">
-        <Button Content="Find Device" Margin="20" Click="Button_Click"></Button>
-        <Button Content="Connect Device" Margin="20" Click="Button_Click_1"></Button>
+        <Button Content="Connect Device" Margin="20" Click="Button_Click"></Button>
         <Button Content="Light LED" Margin="20" Click="Button_Click_2"></Button>
     </StackPanel>
 </Page>
