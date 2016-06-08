@@ -2,7 +2,7 @@
 
 ### Basics / Getting Started
 
-Microsoft's Remote Wiring framework is an open source C++, Windows Runtime Component (winmd) available through NuGet or GitHub.
+Microsoft's Remote Wiring framework is an open source C++, Windows Runtime Component (winmd) available through NuGet or GitHub. The framework allows you to interact with a microcontroller over a serial (USB, Bluetooth, Network) connection.
 
 You can snag it a couple ways:
 
