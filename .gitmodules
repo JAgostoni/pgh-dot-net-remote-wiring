@@ -13,7 +13,3 @@
 [submodule "Demo6/Starter/remote-wiring"]
 	path = Demo6/Starter/remote-wiring
 	url = https://github.com/JAgostoni/remote-wiring
-
-[submodule "Demo6/Complete/remote-wiring"]
-	path = Demo6/Complete/remote-wiring
-	url = https://github.com/JAgostoni/remote-wiring
