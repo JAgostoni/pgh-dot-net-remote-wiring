@@ -20,8 +20,10 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 ### [Firmata](msiotwiring_3.md)
 ### [Remote Device / GPIO](msiotwiring_4.md)
 
-## Button Band IoT End-to-End
-...
+## And More
+
+### [Button/Band IoT Project](buttonbandiot.md)
+### [Wrap Up](wrapup.md)
 
 
 ---
