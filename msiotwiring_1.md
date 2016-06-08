@@ -31,7 +31,7 @@ Do this:
 
 1. Launch Visual Studio 2015
 2. Create a new Blank Windows Universal App
-   - Or ... just use the [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Starter/RemoteWiringDemo)
+   - Or ... just use the [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo3/Starter/RemoteWiringDemo)
 3. Open the Package Manager Console
 4. Using NuGet Package?
   - Install-Package windows-remote-arduino
@@ -45,7 +45,7 @@ Do this:
 6. Build. Hope. Success?
   - Oh yeah ... forgot to tell you to pick an architecture like x64 ... C++, amirite?
 
-Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo3/Complete/)
+Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo3/Complete/)
 
 ### The Three Libraries
 There are three libraries which come with Remote Wiring...
