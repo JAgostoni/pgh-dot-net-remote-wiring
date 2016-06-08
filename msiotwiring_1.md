@@ -53,7 +53,7 @@ There are three libraries which come with Remote Wiring...
 - Firmata: Layer on top of Serial-Wiring implementing the Firmata protocol
 - Remote-Wiring: A easier to digest API against Firmata
 
-You can use then in succeeding levels of abstraction.
+You can use them in succeeding levels of abstraction.
 
 ### [NEXT: Serial Wiring >>](msiotwiring_2.md)
 
