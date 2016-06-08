@@ -18,7 +18,7 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 ### [Basics/Getting Started](msiotwiring_1.md)
 ### [Serial Wiring](msiotwiring_2.md)
 ### [Firmata](msiotwiring_3.md)
-### [Remote Wiring / GPIO](msiotwiring_4.md)
+### [Remote Device / GPIO](msiotwiring_4.md)
 
 ## Button Band IoT End-to-End
 ...

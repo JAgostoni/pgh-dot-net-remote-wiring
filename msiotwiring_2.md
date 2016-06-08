@@ -22,7 +22,11 @@ You _could_ harccode the COM port of your device ... OR we can steal code from t
 5. Call the begin() method with the correct _bitrate_
 6. Run the project and click the connect button
 
-Did it work?  Of course not! You got a Catastrophic Failure too? Riiight, we need to give the UWP app permissions to connect
+Did it work?  Of course not! You got a Catastrophic Failure too? 
+
+![failure](assets/communicate.jpg)
+
+Riiight, we need to give the UWP app permissions to connect
 to the serial devices.  Wait? No UI support for this? Well, time to edit some XML...
 
 1. Open the .appxmanifest using the XML editor (Right-Click->Open With...)
