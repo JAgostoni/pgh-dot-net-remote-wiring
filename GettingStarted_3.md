@@ -24,6 +24,6 @@ Do this:
 
 **Now we can get started with C#!** 
 
-### [NEXT: Microsoft Remote Wiring >>](GettingStarted_3.md)
+### [NEXT: Microsoft Remote Wiring >>](msiotwiring_1.md)
 
 [TOP](README.md)
