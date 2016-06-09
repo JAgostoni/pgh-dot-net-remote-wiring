@@ -14,7 +14,7 @@ _**DEMO 6: Light-up that LED!**_
 
 We'll finish our application by lighting up the same LED we did about an hour ago ... again.
 
-1. Continue your solution or open a [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo6/Starter/)
+1. Continue your solution or open a [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo6/Starter/)
 2. Open our friend MainPage.xaml.cs
 3. Create a new private member var/prop to hold our RemoteDevice instance
 4. Create the instance of this object just above the .begin() method off the UsbSerial object
