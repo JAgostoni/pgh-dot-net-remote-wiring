@@ -14,7 +14,7 @@ _**DEMO 4: Finding and connecting to the board**_
 
 You _could_ harccode the COM port of your device ... OR we can steal code from the Internet to search for it ;)
 
-1. Use the solution from Demo 3, or open the [Starter Solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo4/Starter/)
+1. Use the solution from Demo 3, or open the [Starter Solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo4/Starter/)
 2. Open the MainPage.xaml.cs code file, uncomment the block of code for the FindFirstArduinoBoard method
 3. In the Button_Click event, call that method and create a new UsbSerial object with the result
   - You should make this a private member var/property, we will need ot later
