@@ -5,7 +5,28 @@ presses up as telemtry events to an Azure IoT hub ... and then back again as a M
 
 
 
+## Getting Started
 
+### [Some things we'll need](GettingStarted_1.md)
+
+### [What's an Arduino?](GettingStarted_2.md)
+
+### [What's StandardFirmata?](GettingStarted_3.md)
+
+## Microsoft Remote Wiring
+
+### [Basics/Getting Started](msiotwiring_1.md)
+### [Serial Wiring](msiotwiring_2.md)
+### [Firmata](msiotwiring_3.md)
+### [Remote Device / GPIO](msiotwiring_4.md)
+
+## And More
+
+### [Button/Band IoT Project](buttonbandiot.md)
+### [Wrap Up](wrapup.md)
+
+
+---
 
 ## BIO - Jason Agostoni
 Jason Agostoni has over 18 years of experience in software development, architecture, design, and several years of experience in project management. He has had the opportunity to work in nearly every industry and knowledge domain from healthcare to professional sports teams.  Jason helps companies and teams envision, design and construct end-to-end solutions for any size need.  He has been responsible for small mobile applications all the way up to massive scale integration solutions processing 5+ million transactions daily. In addition to software development experience, Jason has spent time developing content for and performing mentoring including mobile development, Azure and cloud services, BizTalk, Team Foundation Server (TFS), software architecture and general .NET.
