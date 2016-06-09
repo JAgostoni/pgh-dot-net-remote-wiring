@@ -51,7 +51,7 @@ Completed solution [HERE](https://github.com/JAgostoni/pgh-dot-net-remote-wiring
 There are three libraries which come with Remote Wiring...
 - Serial-Wiring: Sets up a data stream with your Arduino
 - Firmata: Layer on top of Serial-Wiring implementing the Firmata protocol
-- Remote-Wiring: A easier to digest API against Firmata
+- Remote-Device: A easier to digest API against Firmata
 
 You can use them in succeeding levels of abstraction.
 
