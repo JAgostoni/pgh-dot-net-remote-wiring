@@ -14,6 +14,9 @@ solution for capturing sensor data and displaying it.
 
 _**DEMO 7: The whole deal!**_
 
+
+![Demo 6 schematic](assets/Button_Band_Wiring.png)
+
 The project is availble here for perusal: https://github.com/JAgostoni/button-band-iot
 
 I created the WebTile in just a few minutes here: https://developer.microsoftband.com/WebTile/ChooseLayout

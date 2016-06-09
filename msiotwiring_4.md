@@ -26,7 +26,8 @@ We'll finish our application by lighting up the same LED we did about an hour ag
 
 Like totally exciting, right? How about a button?
 
-[TBD FRITZING DIAGRAM OF BUTTON]
+
+![Demo 6 schematic](assets/Demo_6_Schematic.png)
 
 1. Wire up a button like the diagram above
 2. In the DeviceReady event, set the pinMode of pin 3 to PULLUP
