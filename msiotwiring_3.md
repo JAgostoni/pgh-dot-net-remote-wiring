@@ -11,7 +11,7 @@ _**DEMO 5: Explore the Firmata protocol layer**_
 
 We aren't going to use the UwpFirmata object directly, so
 
-1. Continue your solution or open a [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/wip/Demo4/Starter/)
+1. Continue your solution or open a [Starter solution](https://github.com/JAgostoni/pgh-dot-net-remote-wiring/tree/master/Demo4/Starter/)
 2. Open the MainPage.xaml.cs file
 3. Create a new variable of type UwpFirmata
 4. Use IntelliSense to explore some of the methods
