@@ -25,6 +25,6 @@ Firmata will tell us ...
 
 **That was easy! Next!**
 
-### [NEXT: Remote Wiring >>](msiotwiring_4.md)
+### [NEXT: Remote Device >>](msiotwiring_4.md)
 
 [TOP](README.md)
