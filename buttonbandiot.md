@@ -15,7 +15,7 @@ solution for capturing sensor data and displaying it.
 _**DEMO 7: The whole deal!**_
 
 
-![Demo 6 schematic](assets/Button_Band_Wiring.png)
+![Button/Band schematic](assets/Button_Band_wiring.png)
 
 The project is availble here for perusal: https://github.com/JAgostoni/button-band-iot
 
