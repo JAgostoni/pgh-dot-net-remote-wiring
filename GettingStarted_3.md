@@ -15,7 +15,7 @@ Do this:
 
 1. Connect your board
 2. Open the Arduino IDE
-3. Ensure youre board and port are selected (Tools->Board, Tools->Port)
+3. Ensure you're board and port are selected (Tools->Board, Tools->Port)
 4. Open the StandardFirmata sketch (File->Examples->Firmata->StandardFirmata)
 5. Upload. Done.
 
